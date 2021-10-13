@@ -1,0 +1,16 @@
+C:\Users\Diego Jav\Desktop\Taller_02_POO\Taller_02_POO\bin\Debug\netcoreapp3.1\Taller_02_POO.exe
+C:\Users\Diego Jav\Desktop\Taller_02_POO\Taller_02_POO\bin\Debug\netcoreapp3.1\Taller_02_POO.deps.json
+C:\Users\Diego Jav\Desktop\Taller_02_POO\Taller_02_POO\bin\Debug\netcoreapp3.1\Taller_02_POO.runtimeconfig.json
+C:\Users\Diego Jav\Desktop\Taller_02_POO\Taller_02_POO\bin\Debug\netcoreapp3.1\Taller_02_POO.runtimeconfig.dev.json
+C:\Users\Diego Jav\Desktop\Taller_02_POO\Taller_02_POO\bin\Debug\netcoreapp3.1\Taller_02_POO.dll
+C:\Users\Diego Jav\Desktop\Taller_02_POO\Taller_02_POO\bin\Debug\netcoreapp3.1\Taller_02_POO.pdb
+C:\Users\Diego Jav\Desktop\Taller_02_POO\Taller_02_POO\obj\Debug\netcoreapp3.1\Taller_02_POO.csprojAssemblyReference.cache
+C:\Users\Diego Jav\Desktop\Taller_02_POO\Taller_02_POO\obj\Debug\netcoreapp3.1\Taller_02_POO.frm_ingreso.resources
+C:\Users\Diego Jav\Desktop\Taller_02_POO\Taller_02_POO\obj\Debug\netcoreapp3.1\Taller_02_POO.csproj.GenerateResource.cache
+C:\Users\Diego Jav\Desktop\Taller_02_POO\Taller_02_POO\obj\Debug\netcoreapp3.1\Taller_02_POO.AssemblyInfoInputs.cache
+C:\Users\Diego Jav\Desktop\Taller_02_POO\Taller_02_POO\obj\Debug\netcoreapp3.1\Taller_02_POO.AssemblyInfo.cs
+C:\Users\Diego Jav\Desktop\Taller_02_POO\Taller_02_POO\obj\Debug\netcoreapp3.1\Taller_02_POO.csproj.CoreCompileInputs.cache
+C:\Users\Diego Jav\Desktop\Taller_02_POO\Taller_02_POO\obj\Debug\netcoreapp3.1\Taller_02_POO.dll
+C:\Users\Diego Jav\Desktop\Taller_02_POO\Taller_02_POO\obj\Debug\netcoreapp3.1\Taller_02_POO.pdb
+C:\Users\Diego Jav\Desktop\Taller_02_POO\Taller_02_POO\obj\Debug\netcoreapp3.1\Taller_02_POO.genruntimeconfig.cache
+C:\Users\Diego Jav\Desktop\Taller_02_POO\Taller_02_POO\obj\Debug\netcoreapp3.1\Taller_02_POO.frm_bienvenida.resources
